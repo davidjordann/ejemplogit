@@ -5,7 +5,7 @@
 package com.mycompany.ejemplogit;
 
 /**
- *
+ * es un ejemplo
  * @author juanj
  */
 public class Ejemplogit {
