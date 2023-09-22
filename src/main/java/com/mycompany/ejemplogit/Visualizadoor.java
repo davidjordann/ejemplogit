@@ -5,7 +5,7 @@
 package com.mycompany.ejemplogit;
 
 /**
- * se realizo el comentario
+ * se realizo el comentario  s
  * @author juanj
  */
 public class Visualizadoor {
